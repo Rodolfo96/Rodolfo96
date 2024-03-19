@@ -2,7 +2,6 @@ Olá, me chamo Rodolfo Costa.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rodolfocosta.dev@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 Tecnologias que uso:
 <div style="display: inline_block"><br/>
